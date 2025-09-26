@@ -18,9 +18,6 @@ devops-project/
 │── scripts/
 │ └── deploy.sh # Example deployment script
 
-yaml
-Copy code
-
 ---
 
 ## 🌳 Branching Strategy
