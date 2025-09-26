@@ -4,7 +4,24 @@ This project demonstrates **version control best practices** using Git and GitHu
 It simulates a real-world DevOps workflow with proper branching, pull requests, tagging, and documentation.
 
 ---
+---
 
+## 📂 Project Structure
+
+devops-project/
+│── README.md # Project overview
+│── .gitignore # Ignored files
+│── docs/
+│ └── tasks.md # Step-by-step documentation
+│── src/
+│ └── app.py # Example application code
+│── scripts/
+│ └── deploy.sh # Example deployment script
+
+yaml
+Copy code
+
+---
 
 ## 🌳 Branching Strategy
 
